@@ -1,0 +1,20 @@
+<svg id='Add_Song_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.42 0 0 0.42 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 -4 -0.32)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,67,54); fill-rule: nonzero; opacity: 1;" transform=" translate(-20, -23.68)" d="M 13 13.482 L 13 30.81 C 10.789302100833599 29.532713579673423 8.012424520060838 29.794337377975005 6.079189514296148 31.462044850350004 C 4.145954508531458 33.12975232272501 3.4798503796247537 35.83822078292342 4.419058555759161 38.212359322017484 C 5.358266731893568 40.586497861111546 7.697047261946389 42.10623525378239 10.248 42 C 13.521808840154048 41.78258292775949 16.050880336061063 39.03762580867961 16 35.75699999999999 L 16 20.582 L 33 15 L 33 26.81 C 30.78944621189335 25.52822205286322 28.009623603042556 25.787128390009084 26.07380185670945 27.455090296739183 C 24.13798011037635 29.123052203469282 23.470955208546698 31.834052758325633 24.411844499476846 34.209811605113714 C 25.352733790406994 36.58557045190179 27.69506888875225 38.10475197994649 30.247999999999998 37.995 C 33.519850587385825 37.77767264710624 36.04819146688511 35.03570630386624 36 31.757 L 36 6.35 C 36.000087747822114 6.033173678259631 35.850032007557935 5.735048674479956 35.59551030090753 5.546375341199986 C 35.34098859425712 5.3577020079200155 35.01211505371218 5.300803524686273 34.709 5.393 L 14.418 11.569 C 13.575863637065488 11.825146915218093 13.000196344543163 12.601769997443206 13 13.482 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 14 14)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(67,160,71); fill-rule: nonzero; opacity: 1;" transform=" translate(-38, -38)" d="M 38 28 C 32.47715250169207 28 28 32.47715250169207 28 38 C 28 43.52284749830793 32.47715250169207 48 38 48 C 43.52284749830793 48 48 43.52284749830793 48 38 C 48 32.47715250169207 43.52284749830793 28 38 28 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 14 14)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-38, -38)" d="M 36 32 L 40 32 L 40 44 L 36 44 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 14 14)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-38, -38)" d="M 32 36 L 44 36 L 44 40 L 32 40 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
